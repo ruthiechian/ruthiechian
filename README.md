@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ruthiechian
-- 👀 I’m interested in engineering and computer science
+- 👀 I’m interested in engineering, computer science and astronomy
 - 🌱 I’m currently learning web development on The Odin Project (TOP)
 - 📫 You can reach me at ruthiechian.va@gmail.com
 
